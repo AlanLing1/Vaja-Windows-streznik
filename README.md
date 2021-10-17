@@ -1,0 +1,2 @@
+# Vaja-Windows-streznik
+Naloga
